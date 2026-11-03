@@ -3,6 +3,7 @@
 /*
 !/.gitignore
 !/README.md
+!/KNIME_코드_해설.md
 !/*_데이터제외.knwf
 !/워크플로_*.png
 !/워크플로_*.PNG
